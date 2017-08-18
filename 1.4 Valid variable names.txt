@@ -1,0 +1,7 @@
+Valid variable names
+$_other_cities
+$population
+$number_1_city
+
+Not valid
+$1st_city
