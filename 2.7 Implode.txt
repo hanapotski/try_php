@@ -1,0 +1,2 @@
+implode()
+Join array elements with a glue string as the first of the two arguments.
