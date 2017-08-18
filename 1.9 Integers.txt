@@ -1,0 +1,5 @@
+Integer data types:
+
+-50
+0
+42
