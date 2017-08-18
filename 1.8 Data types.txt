@@ -1,0 +1,6 @@
+Data types in PHP:
+
+-String
+-Integer
+-Float
+-Boolean
